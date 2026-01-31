@@ -1,3 +1,5 @@
-โปรเจคร้านค้า
-Node.js + Express
-Database MongoDB
+<b>โปรเจคร้านค้า</b> <br>
+<div>Language Html+Css+JavaScript</div>
+<div>Tools Node.js</div>
+<div>Framework Express</div>
+<div>Database MongoDB</div>
