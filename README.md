@@ -1,1 +1,3 @@
-โปรเจคNode.js + Express เชื่อมกับฐานข้อมูล MongoDB
+โปรเจคร้านค้า
+Node.js + Express
+Database MongoDB
